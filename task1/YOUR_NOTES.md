@@ -1,3 +1,11 @@
-Write any notes you want to make here. For example, you might want to
-tell us how to install any dependencies and run the program you've
-written.
+Steps to run the code
+
+1. You need to run 'time_diff' gem by using 
+
+gem install nokogiri
+gem install time_diff
+
+2. You need to run programe by following command
+
+ruby search.rb
+
